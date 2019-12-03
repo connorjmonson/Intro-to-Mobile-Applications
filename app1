@@ -1,4 +1,0 @@
-App 1:
-an application that allows user to create a list of information
-about different photos. Information includes “name” tag for the photo, the date it was taken, and
-the name of its photographer. The information should be stored in a file or files on the device.
